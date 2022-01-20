@@ -1,4 +1,4 @@
-[![JoshMany's Banner](./images/github-banner.jpg)](https://github.com/JoshMany)
+[![JoshMany's Banner](./images/bitmap2.png)](https://github.com/JoshMany)
 
 <h2 align="center">Quien soy? / Who am i?</h2>
 <p align="center">
