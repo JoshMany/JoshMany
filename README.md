@@ -9,18 +9,6 @@
   </p>
 </p>
 
-<h2 align="center">📈 GitHub Stats</h2>
-<div align="center">
-  <a href="https://github.com/joshmany/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshmany&layout=compact&theme=tokyonight&custom_title=Lenguajes Más Usados" />
-</a>
-  <br/><br/>
-  <a href="https://github.com/joshmany/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=joshmany&show_icons=true&theme=tokyonight&custom_title=Estadisticas de JoshMany en GitHub" />
-</a>
-</div>
-
-
 <h2 align="center">💼 Habilidades / Skills</h2>
 <div align="center">
 <a target="_blank"href="https://laravel.com/"><img src="https://img.shields.io/badge/Framework-Laravel-f05340?style=flat-square&logo=laravel"/></a>&nbsp;
