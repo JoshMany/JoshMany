@@ -34,11 +34,3 @@
 <a target="_blank"href="https://www.eclipse.org/downloads/"><img src="https://img.shields.io/badge/Tools-Eclipse_IDE-443583?style=flat-square&logo=eclipseide"/></a>&nbsp;
 <a target="_blank"href="https://www.netacad.com/es/courses/packet-tracer"><img src="https://img.shields.io/badge/Tools-Packet_Tracer-009edc?style=flat-square&logo=cisco"/></a>&nbsp;
 </div>
-
-
-<h2  align="center">📫 Encuentrame en / Reach me on</h2>
-<p align="center">
-  <a target="_blank"href="https://www.linkedin.com/in/jose-manuel-mu%C3%B1oz-garcia-859b4a164/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a target="_blank"href="https://twitter.com/munoz_garz"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:manuel_prog@outlook.com?subject=Hello%20Manuel,%20From%20Github"><img src="https://img.shields.io/badge/outlook-blue?&style=for-the-badge&logo=microsoftoutlook&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
